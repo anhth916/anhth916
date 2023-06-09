@@ -2,3 +2,4 @@
 
 <div align="center"><img src ="static/github-contribution-grid-snake.svg" alt="Snake.svg"/></div>
 
+<img src="static/demo.gif" alt="CSD"  width="100%" />
